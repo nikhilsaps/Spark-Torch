@@ -10,7 +10,7 @@ Spark is a lightweight Android application designed to provide a quick and easy-
 
 ## Screenshots
 
-![Spark App Screenshot](/Ss_front.png)
+![Spark App Screenshot](/Ss_front.jpg)
 
 ## Code Sample
 
